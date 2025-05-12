@@ -12,4 +12,8 @@
 
 ### Tecnologías
 
+- HTML
+- CSS
+- JavaScript
+
 ### Frameworks
