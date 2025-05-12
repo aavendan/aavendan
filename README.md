@@ -17,3 +17,6 @@
 - JavaScript
 
 ### Frameworks
+
+- Django
+- Angular
